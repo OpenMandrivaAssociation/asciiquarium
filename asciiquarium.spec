@@ -10,7 +10,6 @@ License:        GPL
 Group:          Toys
 URL:            http://www.robobunny.com/projects/asciiquarium/
 Source0:        http://www.robobunny.com/projects/asciiquarium/%{name}_%{version}.tar.bz2
-BuildRoot:      %{_tmppath}/%{name}-%{version}
 Requires:	perl-Term-Animation
 BuildArch:      noarch
 
