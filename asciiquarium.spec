@@ -4,7 +4,7 @@ Release:	3
 Summary:	An aquarium/sea animation in ASCII art
 License:	GPL
 Group:		Toys
-URL:		http://www.robobunny.com/projects/asciiquarium/
+URL:		https://www.robobunny.com/projects/asciiquarium/
 Source0:	http://www.robobunny.com/projects/asciiquarium/%{name}_%{version}.tar.gz
 BuildArch:	noarch
 
